@@ -1,0 +1,5 @@
+1)Colocar uma tela de clique para entrar no jogo
+
+2)sempre que a pessoa morrer ter a opção de começar novamente
+
+3)conta pontuação de distancia?
